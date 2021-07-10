@@ -1,0 +1,43 @@
+.login-area{
+    margin-top: 5%;
+}
+.login{
+    width: 80%;
+    padding: 8%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px lightgray;
+}
+.home{
+    width: 100%;
+}
+.home-area{
+    margin-top: 5%;
+    display: none;
+}
+.update{
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px lightgray;
+    margin-bottom: 10px;
+    
+}
+.deposit{
+    background-color: blueviolet;
+}
+.withdraw{
+    background-color: rgb(226, 192, 43);
+}
+.total{
+    background-color: rgb(145, 201, 238);
+}
+.form{
+    width: 450px;
+    padding: 80px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px lightgray;
+    margin-bottom: 10px;
+}
+#info{
+    display: none;
+}
